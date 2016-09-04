@@ -1,0 +1,3 @@
+- Limbaj de Programare : C++
+  - utilizat libraria SFML pentru partea audio si video
+  - jocul a fost facut pe PC pentru PC.
